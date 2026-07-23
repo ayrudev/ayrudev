@@ -9,7 +9,7 @@
 
 - 🎓 Computer Science student at UniCEUB
 - 💻 Interested in cybersecurity and systems programming
-- 🌱 Currently learning Database, Python and C
+- 🌱 Currently learning C, Databases and Computer Networks
 
 ---
 
