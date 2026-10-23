@@ -8,7 +8,7 @@
 </p>
 
 - 🎓 Computer Science student at UniCEUB
-- 💻 Interested in cybersecurity and systems programming
+- 💻 Interested in cybersecurity, infrastructure and systems programming
 - 🌱 Currently learning C, Databases and Computer Networks
 
 ---
