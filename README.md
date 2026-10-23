@@ -15,5 +15,5 @@
 
 <h3 align="center">Skill set</h3>
 <p align="center">  
-  <img src="https://skills.syvixor.com/api/icons?perline=13&i=linux,bash,git,c,python,html,css,javascript" />
+  <img src="https://skills.syvixor.com/api/icons?perline=13&i=linux,docker,bash,git,c,java,python,html,css,javascript" />
 </p>
